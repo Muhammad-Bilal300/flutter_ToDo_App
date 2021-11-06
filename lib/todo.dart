@@ -18,7 +18,7 @@ class _TodoState extends State<Todo> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        elevation: 5,
+        elevation:7,
         shadowColor: Colors.white,
         backgroundColor: Colors.red,
         leading: Icon(
